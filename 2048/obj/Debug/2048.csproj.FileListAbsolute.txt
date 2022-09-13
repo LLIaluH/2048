@@ -1,0 +1,12 @@
+C:\Users\mikheev_av1\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\mikheev_av1\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.pdb
+C:\Users\mikheev_av1\source\repos\2048\2048\bin\Debug\System.Threading.Tasks.NET35.dll
+C:\Users\mikheev_av1\source\repos\2048\2048\bin\Debug\System.Threading.Tasks.NET35.pdb
+C:\Users\mikheev_av1\source\repos\2048\2048\obj\Debug\2048.csproj.CopyComplete
